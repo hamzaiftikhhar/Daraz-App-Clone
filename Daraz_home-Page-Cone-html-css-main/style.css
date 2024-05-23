@@ -695,3 +695,173 @@ line-height: 16px; */
     padding: 0 !important;
 }
 
+/* .login-title {
+    width: 810px;
+    margin: 50px auto 15px;
+    height: 26px;
+    line-height: 26px;
+}
+
+
+.login-title h3 {
+    font-size: 22px;
+    color: #424242;
+    font-weight: 400;
+}
+.login-other {
+    float: right;
+    margin-top: -26px;
+    color: #757575;
+}
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.login .mod-login {
+    padding: 25px 50px 50px 25px;
+}
+.mod-login-col1 {
+    width: 380px;
+    float: left;
+}
+.mod-input {
+    position: relative;
+}
+.mod-input label {
+    font-size: 12px;
+    height: 15px;
+    line-height: 15px;
+    overflow: hidden;
+    color: #424242;
+    display: block;
+    margin-bottom: 5px;
+}
+.mod-input input {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    height: 40px;
+    line-height: 38px \0;
+    padding: 0 35px 0 10px;
+    margin-bottom: 2px;
+    outline: none;
+}
+.mod-input span {
+    min-height: 16px;
+    line-height: 16px;
+    font-size: 12px;
+    color: #f44336;
+    visibility: hidden;
+    display: block;
+    margin-bottom: 10px;
+}
+.mod-input-close-icon, .mod-input-password-icon {
+    padding: 10px;
+    font-family: "lazada-member";
+    position: absolute;
+    right: 0;
+    top: 19px;
+    font-size: 20px;
+    line-height: 24px;
+    cursor: pointer;
+}
+.mod-input-close-icon:after, .mod-input-password-icon:after {
+    content: "\e601";
+}
+
+.mod-login a {
+    color: #049cb9;
+}
+.mod-login-col1 {
+    width: 380px;
+    float: left;
+}
+.mod-login-col2 {
+    width: 305px;
+    float: right;
+}
+.mod-login-btn {
+    margin: 12px 0;
+}
+.mod-login button {
+    width: 100%;
+}
+.mod-third-party-login-line {
+    margin-bottom: 12px;
+}
+.mod-login button {
+    width: 100%;
+} */
+
+.row h3{
+    font-size: 22px;
+    color: #424242;
+    font-weight: 400;
+}
+.mod-input-close-icon, .mod-input-password-icon {
+    padding: 10px;
+    font-family: "lazada-member";
+    position: absolute;
+    right: 0;
+    top: 19px;
+    font-size: 20px;
+    line-height: 24px;
+    cursor: pointer;
+}
+.mod-login-forgot {
+    margin-top: -7px;
+    text-align: right;
+    font-size: 12px;
+    color:#1a9cb7;;
+}
+.bg-card{
+    background-color: white  ;
+}
+.input-field-title{
+    font-size: 12px;
+    height: 15px;
+    line-height: 15px;
+    overflow: hidden;
+    color: #424242;
+    display: block;
+    margin-bottom: 5px;
+}
+.input-field-title placeholdar{
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    height: 40px;
+    line-height: 38px \0;
+    padding: 0 35px 0 10px;
+    margin-bottom: 2px;
+    outline: none;
+}
+.placeholdar{
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+width: 100%;
+border: 1px solid #ddd;
+font-size: 14px;
+height: 40px;
+line-height: 38px \0;
+padding: 0 35px 0 10px;
+margin-bottom: 2px;
+outline: none;    -webkit-box-sizing: border-box;
+box-sizing: border-box;
+width: 100%;
+border: 1px solid #ddd;
+font-size: 14px;
+height: 40px;
+line-height: 38px \0;
+padding: 0 35px 0 10px;
+margin-bottom: 2px;
+outline: none;}
+
+.login-btn{
+    width: 305px;
+    height: 48px;
+    margin-top: 12px;
+}
